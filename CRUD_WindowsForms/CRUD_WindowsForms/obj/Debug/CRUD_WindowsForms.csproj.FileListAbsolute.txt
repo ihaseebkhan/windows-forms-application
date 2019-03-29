@@ -1,0 +1,10 @@
+C:\Users\Haseeb\source\repos\CRUD_WindowsForms\CRUD_WindowsForms\obj\Debug\CRUD_WindowsForms.Form1.resources
+C:\Users\Haseeb\source\repos\CRUD_WindowsForms\CRUD_WindowsForms\obj\Debug\CRUD_WindowsForms.Properties.Resources.resources
+C:\Users\Haseeb\source\repos\CRUD_WindowsForms\CRUD_WindowsForms\obj\Debug\CRUD_WindowsForms.csproj.GenerateResource.cache
+C:\Users\Haseeb\source\repos\CRUD_WindowsForms\CRUD_WindowsForms\obj\Debug\CRUD_WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Haseeb\source\repos\CRUD_WindowsForms\CRUD_WindowsForms\obj\Debug\CRUD_WindowsForms.csprojAssemblyReference.cache
+C:\Users\Haseeb\source\repos\CRUD_WindowsForms\CRUD_WindowsForms\bin\Debug\CRUD_WindowsForms.exe.config
+C:\Users\Haseeb\source\repos\CRUD_WindowsForms\CRUD_WindowsForms\bin\Debug\CRUD_WindowsForms.exe
+C:\Users\Haseeb\source\repos\CRUD_WindowsForms\CRUD_WindowsForms\bin\Debug\CRUD_WindowsForms.pdb
+C:\Users\Haseeb\source\repos\CRUD_WindowsForms\CRUD_WindowsForms\obj\Debug\CRUD_WindowsForms.exe
+C:\Users\Haseeb\source\repos\CRUD_WindowsForms\CRUD_WindowsForms\obj\Debug\CRUD_WindowsForms.pdb
